@@ -1,6 +1,6 @@
 Name:		texlive-gindex
 Version:	52311
-Release:	1
+Release:	2
 Summary:	Formatting indexes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gindex
