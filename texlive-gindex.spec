@@ -3,7 +3,7 @@ Version:	52311
 Release:	2
 Summary:	Formatting indexes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gindex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gindex
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gindex.doc.r%{version}.tar.xz
